@@ -1,0 +1,27 @@
+.panda-bg-info {
+    background-color: #feeae9;
+
+}
+
+.panda-btn-warning {
+    background-color: #ff3182;
+    color: #feeae9;
+}
+
+.panda-text-secondary {
+    color: #ff3182;
+}
+
+.panda-bg-warning {
+    background-color: #feeae9;
+}
+
+.panda-btn-info {
+    background-color: rgb(255, 60, 0);
+    color: #feeae9;
+}
+
+.panda-text-pramary {
+    color: rgb(255, 60, 0);
+    ;
+}
